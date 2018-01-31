@@ -5,7 +5,6 @@
 
 #include "cache/cache.h"
 #include "vre.h"
-#include "vrt.h"
 #include "vcl.h"
 #include "vsb.h"
 #include "vsha256.h"
